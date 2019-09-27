@@ -1,0 +1,8 @@
+﻿  SimpleClass.cpp
+     Creating library C:\Users\dspao\source\repos\Test Plug-In\x64\Release\Test Plug-In.lib and object C:\Users\dspao\source\repos\Test Plug-In\x64\Release\Test Plug-In.exp
+  Generating code
+  43 of 142 functions (30.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Test Plug-In.vcxproj -> C:\Users\dspao\source\repos\Test Plug-In\x64\Release\Test Plug-In.dll

@@ -1,2 +1,1 @@
-# Game-Engines-Assignments-Repo
-Repository for Game Engine Design Assignments
+Game Engine Design Assignments Repo
